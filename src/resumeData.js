@@ -1,37 +1,37 @@
 let resumeData = {
     "imagebaseurl": "https://ivy555.github.io/",
-    "name": "Arjun Rai",
+    "name": "Devesh Kejriwal",
     "role": "Full Stack Developer",
-    "linkedinId": "thearjunrai",
-    "roleDescription": "I am an AI/ML enthusiast and a MERN full stack developer",
+    "linkedinId": "Deveshkejriwal",
+    "roleDescription": "I am a MERN full stack developer",
     "socialLinks": [
         {
             "name": "linkedin",
-            "url": "https://www.linkedin.com/in/thearjunrai/",
+            "url": "https://www.linkedin.com/in/DeveshKejriwal/",
             "className": "fa fa-linkedin"
         },
         {
             "name": "github",
-            "url": "https://github.com/ArjunRai1",
+            "url": "https://github.com/deveshkejriwal",
             "className": "fa fa-github"
         },
         
     ],
     "aboutme": "I am currently a student at VIT Chennai currently learning about MERN stack and machine learning/deep learning.",
     "address": "India",
-    "website": "arjunrai2214@gmail.com",
+    "website": "deveshkejriwal001@gmail.com",
     "education": [
         {
             "UniversityName": "VIT Chennai",
-            "specialization": "Artificial Intelligence / Machine Learning",
+            "specialization": "Artificial Intelligence / Robotics",
             "MonthOfPassing": "Jul",
             "YearOfPassing": "2025"
         },
         {
-            "UniversityName": "Delhi Public School Bhopal",
+            "UniversityName": "Birla School Pilani",
             "specialization": "PCM",
             "MonthOfPassing": "Apr",
-            "YearOfPassing": "2020",
+            "YearOfPassing": "2019",
         }
     ],
     "skillsDescription": "",
@@ -55,10 +55,6 @@ let resumeData = {
         {
             "skillname": "Reactjs",
             width:"70%"
-        },
-        {
-            "skillname": "Machine Learning",
-            "width":"70%"
         },
         {
             "skillname": "JAVA",
